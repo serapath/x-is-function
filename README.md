@@ -25,7 +25,7 @@ isFunction(true)
 isFunction(new Date())
 // -> false
 
-isFunction({
+isFunction({})
 // -> false
 
 isFunction(null)
