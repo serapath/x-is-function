@@ -1,7 +1,7 @@
 # x-is-function
-Simple function test
+x is a function
 
-## Usage
+# usage
 `npm install x-is-function`
 
 ```js
@@ -35,8 +35,10 @@ isFunction(undefined)
 // -> false
 ```
 
-## Related
-
+# related
+* [x-is](https://www.npmjs.com/package/x-is)
 * [x-is-array](https://www.npmjs.com/package/x-is-array)
 * [x-is-object](https://www.npmjs.com/package/x-is-object)
 * [x-is-string](https://www.npmjs.com/package/x-is-string)
+* [x-is-empty-object](https://www.npmjs.com/package/x-is-empty-object)
+* [x-is-ducktype-array](https://www.npmjs.com/package/x-is-ducktype-array)
